@@ -29,11 +29,11 @@ ADMIN_ACCOUNT = "grizlery@robotcom"
 DOMAIN_ID = 300033688
 
 # api
-API_ID = "J5PTsaunMJiIzfpcytqr"
-SERVER_CONSUMER_KEY = "ibju2ce8ga"
+API_ID = "kr1UVDUGQCYAn"
+SERVER_CONSUMER_KEY = "Hrw5aZUwgewafj6dp060"
 
-SERVER_ID = "p12e5.serviceaccount@robotcom"
-SECRET_KEY_NAME = "private_20220614203543.key"
+SERVER_ID = "26bf3a7bc00a4d87b114a4051dc2cd60"
+SECRET_KEY_NAME = "private_20220614205832.key"
 
 # LOCAL ADDRESS
 LOCAL_ADDRESS = "https://robotncomchatbot2.herokuapp.com/"
