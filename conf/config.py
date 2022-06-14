@@ -25,15 +25,15 @@ DEFAULT_LANG = 'ko'
 TZone = "Asia/seoul"
 
 # account
-ADMIN_ACCOUNT = "ro.19162@robotncom"
-DOMAIN_ID = 0
+ADMIN_ACCOUNT = "grizlery@robotcom"
+DOMAIN_ID = 300033688
 
 # api
-API_ID = "0RolcRup91enGIY2a5dI"
-SERVER_CONSUMER_KEY = "xAlLSBveJa"
+API_ID = "J5PTsaunMJiIzfpcytqr"
+SERVER_CONSUMER_KEY = "ibju2ce8ga"
 
-SERVER_ID = "4wik4.serviceaccount@robotncom"
-SECRET_KEY_NAME = "private_20220614190639.key"
+SERVER_ID = "p12e5.serviceaccount@robotcom"
+SECRET_KEY_NAME = "private_20220614203543.key"
 
 # LOCAL ADDRESS
 LOCAL_ADDRESS = "https://robotncomchatbot.herokuapp.com/"
